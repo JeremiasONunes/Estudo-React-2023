@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "name": "Construção de Note-taking App",
+      "budget": "00000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [
+        {
+          "name": "estudo sobre react para construção do Note-taking App",
+          "cost": "0",
+          "description": "entender eo funcionamento base do react ",
+          "id": "f8e3aebf-a163-45da-8a00-14f7092645a9"
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
